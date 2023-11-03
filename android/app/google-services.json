@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "39957609220",
+    "firebase_url": "https://collegeconnect-1461b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "collegeconnect-1461b",
+    "storage_bucket": "collegeconnect-1461b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39957609220:android:aa05c1c003ce2cd75eae51",
+        "android_client_info": {
+          "package_name": "com.example.cc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39957609220-risa945a6u12o1mve874i2ig0ksrl6gh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cc",
+            "certificate_hash": "9931005d4898b558151b92d42d1369709196991b"
+          }
+        },
+        {
+          "client_id": "39957609220-rcba6g3eol9pt1mlj9860ten6ppv9c90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0AzYo6VJUM400SyEgCUXYG5F7p4wc1Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39957609220-rcba6g3eol9pt1mlj9860ten6ppv9c90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39957609220-p9j245kri8bg3imvh4utgkg0hv4eaodo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.collegeconnect"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39957609220:android:52f667f3b328ed715eae51",
+        "android_client_info": {
+          "package_name": "com.example.collegeconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39957609220-h9e49q61fnln6tb42i80n679ack36ibj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collegeconnect",
+            "certificate_hash": "9931005d4898b558151b92d42d1369709196991b"
+          }
+        },
+        {
+          "client_id": "39957609220-rcba6g3eol9pt1mlj9860ten6ppv9c90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0AzYo6VJUM400SyEgCUXYG5F7p4wc1Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39957609220-rcba6g3eol9pt1mlj9860ten6ppv9c90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "39957609220-p9j245kri8bg3imvh4utgkg0hv4eaodo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.collegeconnect"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
